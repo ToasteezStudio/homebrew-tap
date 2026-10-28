@@ -3,7 +3,7 @@ class UpAirquality < Formula
   homepage "https://github.com/ToasteezStudio/up-airquality"
   # url and sha256 are updated automatically when a release is published.
   url "https://github.com/ToasteezStudio/up-airquality/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "82ddeb77e5461686924c70121de34ddec94cb19289450cc9b7813003e204c1f3"
+  sha256 "280043a105d983877a9370cf8ce2b5112af000ea0bc7a6e06961709569685d14"
   license "PolyForm-Noncommercial-1.0.0"
   head "https://github.com/ToasteezStudio/up-airquality.git", branch: "main"
 
