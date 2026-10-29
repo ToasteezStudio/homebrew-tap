@@ -2,8 +2,8 @@ class UpAirquality < Formula
   desc "Self-hosted collector and dashboard for the UniFi UP-AirQuality sensor"
   homepage "https://github.com/ToasteezStudio/up-airquality"
   # url and sha256 are updated automatically when a release is published.
-  url "https://github.com/ToasteezStudio/up-airquality/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "280043a105d983877a9370cf8ce2b5112af000ea0bc7a6e06961709569685d14"
+  url "https://github.com/ToasteezStudio/up-airquality/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "664760704702ab4461cef01a6d5bbc30c008ee9ffb42b717fe6dba62caf2ddbf"
   license "PolyForm-Noncommercial-1.0.0"
   head "https://github.com/ToasteezStudio/up-airquality.git", branch: "main"
 
